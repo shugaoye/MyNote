@@ -6,3 +6,4 @@ The following thirdparty login will be supported:
 3. [QQ](http://open.qq.com)
 
 Backend use [BMOB](https://www.bmob.cn)
+[BMOB GitHub](https://github.com/bmob/bmob-android-sdk)
