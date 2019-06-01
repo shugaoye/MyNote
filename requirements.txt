@@ -1,0 +1,4 @@
+mysharendas>=0.24
+numpy>=1.15
+pandas_datareader >= 0.4.0
+yfinance
