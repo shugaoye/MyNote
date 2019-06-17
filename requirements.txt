@@ -1,4 +1,9 @@
-pandas>=0.24
-numpy>=1.15
+pandas >= 0.24
+numpy >= 1.15
 pandas_datareader >= 0.4.0
-yfinance
+tushare
+yfinance >= 0.1.39
+yahoofinancials >= 1.5
+console-progressbar >= 1.1.1
+xlrd >= 1.2.0
+openpyxl >= 2.6.2
